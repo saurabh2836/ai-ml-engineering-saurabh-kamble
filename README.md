@@ -81,7 +81,7 @@ This repository contains my hands-on experiments, notebooks, and learnings in **
 
 ## 🔗 Connect With Me
 
-- **LinkedIn**: [Saurabh Kamble](https://linkedin.com/in/saurabh-kamble) *(Update link)*
+- **LinkedIn**: [Saurabh Kamble](https://linkedin.com/in/saurabh-kamble)
 - **X (Twitter)**: [@saurabh2836](https://x.com/saurabh2836)
 - **Website**: [saurabhinvestments.com](https://saurabhinvestments.com)
 
